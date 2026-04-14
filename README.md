@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/github/license/RocketsMVP/RocketsMVP?style=flat-square&label=License&color=yellow)
 
 <!-- 主页访问量统计 -->
-![Profile Views](https://komarev.com/gh-profile-views-badge/?username=RocketsMVP&style=flat-square&color=ff6b6b)
+![Profile Views](https://komarev.com/ghpvc/?username=RocketsMVP&color=ff6b6b)
 
 ---
 
