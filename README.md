@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/github/license/RocketsMVP/RocketsMVP?style=flat-square&label=License&color=yellow)
 
 <!-- 主页访问量统计 -->
-![Visitor Count](https://profile-counter.glitch.me/RocketsMVP.com/count.svg)
+[![Visitor Count](https://visitor-badge.railway.app/badge?page_id=RocketsMVP.RocketsMVP&style=flat-square)](https://github.com/RocketsMVP)
 
 ---
 
