@@ -1,5 +1,19 @@
 # Hi there 👋
 
+<!-- 仓库状态统计 -->
+![仓库状态](https://img.shields.io/github/stars/RocketsMVP/RocketsMVP?style=flat-square&label=Stars&color=informational)
+![仓库 Fork 数](https://img.shields.io/github/forks/RocketsMVP/RocketsMVP?style=flat-square&label=Forks&color=ff69b4)
+![仓库 Watchers](https://img.shields.io/github/watchers/RocketsMVP/RocketsMVP?style=flat-square&label=Watchers&color=9cf)
+![仓库大小](https://img.shields.io/github/repo-size/RocketsMVP/RocketsMVP?style=flat-square&color=success)
+![最近提交](https://img.shields.io/github/last-commit/RocketsMVP/RocketsMVP/main?style=flat-square&label=Last%20Commit&color=blueviolet)
+![License](https://img.shields.io/github/license/RocketsMVP/RocketsMVP?style=flat-square&label=License&color=yellow)
+
+<!-- 访客统计 -->
+![访客统计](https://count.not_a Validbadges.com/get/@RocketsMVP.RocketsMVP?style=flat-square)
+![访问量](https://img.shields.io/badge/Profile%20Views-欢迎访问-critical?style=flat-square&color=ff6b6b)
+
+---
+
 ## 关于我
 
 - 🔭 我目前正在做 **无人机系统** 开发
